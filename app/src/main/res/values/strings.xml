@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Aqua Guard</string>
+
+    <string-array name="product">
+        <item>Select from dropdown</item>
+        <item>AQUAGUARD CRYSTAL PLUS UV</item>
+    </string-array>
+    <string-array name="complaint">
+        <item>Select from dropdown</item>
+        <item>Water Not Clear</item>
+        <item>No Water</item>
+        <item>Smell in Water</item>
+        <item>Unit giving Shock</item>
+        <item>No Green Light</item>
+        <item>Unit not Working</item>
+        <item>VC-Buring Smell</item>
+        <item>Low Water Flow</item>
+        <item>VC Low Water Flow</item>
+    </string-array>
+</resources>
